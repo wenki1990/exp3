@@ -5,7 +5,7 @@ Oranges
 Carrots
 Peaches
 Apples
-Coconut
+Groundnuts
 Mango
 Guava
 Papaya
